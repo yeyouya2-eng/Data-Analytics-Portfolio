@@ -40,6 +40,7 @@ A collection of my data analysis projects, demonstrating skills in **Tableau, Py
 *   **Prime Time Strategy:** Sales peak between **20:00 - 23:00**. **Action:** Implement dayparting strategy to allocate 70% of budget to evening hours.
 
 ### 📊 Visual Analysis Preview
-<img width="1086" height="819" alt="image" src="https://github.com/user-attachments/assets/46e69db4-c8a9-4086-be62-6350b77cb082" />
+<img width="1119" height="828" alt="image" src="https://github.com/user-attachments/assets/44d87adb-5aa9-4a27-b26a-fec252ed899b" />
+
 
 
