@@ -11,8 +11,8 @@ A collection of my data analysis projects, demonstrating skills in **Tableau, Py
 > *Note: The source data and original visualizations are in Chinese. Analysis and insights are provided in English.*
 
 ### 📂 Full Reports
-*   **🇺🇸 English Version:** [📄 O2O Store Operation Analysis Report.pdf](O2O%20Store%20Operation%20Analysis%20Report.pdf)
-*   **🇨🇳 Chinese Version:** [📄 O2O_Report_CN.pdf](O2O_Report_CN.pdf)
+*   **🇺🇸 English Version:** [📄 Sales Performance Monitoring Report.pdf](Sales%20Performance%20Monitoring%20Report.pdf)
+*   **🇨🇳 Chinese Version:** [📄 Sales Performance_CN.pdf](Sales%20Performance_CN.pdf)
 
 ### 💡 Key Insights
 *   **Pareto Principle:** The **Top 4 stores contribute 86%** of total revenue. Recommended closing underperforming branches.
