@@ -42,5 +42,26 @@ A collection of my data analysis projects, demonstrating skills in **Tableau, Py
 ### 📊 Visual Analysis Preview
 <img width="1119" height="828" alt="image" src="https://github.com/user-attachments/assets/44d87adb-5aa9-4a27-b26a-fec252ed899b" />
 
+---
+
+## 3. Sales Performance & Growth Monitoring (推广增长团队业绩监控)
+**Role:** Data Analyst | **Tools:** SQL, Tableau
+**Objective:** Built a performance monitoring system for the offline sales team (Internet Finance) to track KPI achievement, sales efficiency, and user acquisition quality.
+
+> *Note: This project involves complex SQL logic for calculating "2-Month Performance (2ms)" and handling historical employee status.*
+
+### 📂 Full Reports
+*   **🇺🇸 English Version:** [📄 Sales Performance Monitoring Report.pdf](Sales%20Performance%20Monitoring%20Report.pdf)
+*   **🇨🇳 Chinese Version:** [📄 推广团队业绩监控报告.pdf](Sales_Performance_CN.pdf)
+
+### 💡 Key Insights
+*   **KPI Achievement:** Only **Nanjing Branch** exceeded the target (63%), while Shanghai Branch lagged significantly (35%). **Action:** Investigate Nanjing's best practices.
+*   **Sales Efficiency:** **Shenzhen Branch** has the highest revenue per capita (40.99w), despite having fewer staff, indicating high efficiency.
+*   **Product Structure:** High-yield long-term products (12-month) are popular in **Suzhou (56%)**, while **Beijing (48%)** relies heavily on short-term products.
+
+### 📊 Visual Analysis Preview
+<!-- 👇 请截图你PPT里那页“多图组合”拖进来 -->
+<img width="1020" height="549" alt="image" src="https://github.com/user-attachments/assets/ec2f1c3f-a27a-4aa1-9d70-4a8929ac847b" />
+
 
 
