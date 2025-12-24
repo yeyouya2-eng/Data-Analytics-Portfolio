@@ -60,8 +60,26 @@ A collection of my data analysis projects, demonstrating skills in **Tableau, Py
 *   **Product Structure:** High-yield long-term products (12-month) are popular in **Suzhou (56%)**, while **Beijing (48%)** relies heavily on short-term products.
 
 ### 📊 Visual Analysis Preview
-<!-- 👇 请截图你PPT里那页“多图组合”拖进来 -->
 <img width="1020" height="549" alt="image" src="https://github.com/user-attachments/assets/ec2f1c3f-a27a-4aa1-9d70-4a8929ac847b" />
+
+## 4. Fintech User Segmentation & Growth Strategy (互金用户分群与增长)
+**Role:** Data Analyst | **Tools:** Tableau, SQL
+**Objective:** Analyzed user demographics (Age, Gender, Geo) and behavioral data (Credit Limit, Product Preference) to define the "Ideal Customer Profile (ICP)" and drive future growth.
+
+> *Note: This project utilizes clustering analysis to segment users based on value and conversion potential.*
+
+### 📂 Full Reports
+*   **🇺🇸 English Version:** [📄 Fintech User Segmentation Report.pdf](Fintech%20User%20Segmentation%20Report.pdf)
+*   **🇨🇳 Chinese Version:** [📄 互金用户分群分析报告.pdf](User_Segmentation_CN.pdf)
+
+### 💡 Key Insights
+*   **Gender Strategy:** **Men** contribute higher revenue (60M vs 20M) but have lower conversion rates. **Women** convert easily (48%) but invest less. **Action:** Targeted VIP service for men; Referral programs for women.
+*   **Golden Age:** Users aged **35-50** show the highest conversion rates and stability. This is the prime demographic for high-yield products.
+*   **Product Fit:** **Women** show a stronger preference for long-term (12-month) stable products (48%), while men split between 6-month and 12-month options.
+
+### 📊 Visual Analysis Preview
+<!-- 👇 请把你的那几张图拼在一起（或者截取那张性别+年龄的组合图）拖进来 -->
+<img width="990" height="1047" alt="image" src="https://github.com/user-attachments/assets/3db5b048-6e68-45e4-9b7a-40f98ce2658a" />
 
 
 
